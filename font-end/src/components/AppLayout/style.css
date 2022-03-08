@@ -1,0 +1,36 @@
+.ant-layout {
+  width: 100%;
+  height: 100%;
+}
+
+.ant-layout-sider-children .logo {
+    float: left;
+    width: 100%;
+    height: 31px;
+    margin: 16px 24px 16px 0;
+    text-align: center;
+  }
+  .ant-layout-sider-children .logo h2 {
+    font-weight: bold;
+    color: white;
+  }
+
+.ant-layout .trigger{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 0;
+    top: 3px;
+    margin-left: 20px;
+  }
+.ant-layout .trigger svg{
+  width: 100%;
+  height: 100%;
+}
+header .ant-row .ant-col .ant-btn{
+  width: 32px;
+  height: 32px;
+  margin-right: 15px;
+  position: relative;
+  top: 10px;
+}
